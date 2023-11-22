@@ -1,0 +1,2 @@
+# bitwise
+bitwise tricks 
